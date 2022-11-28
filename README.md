@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @PravinDP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Pravin Dabhi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!---
-PravinDP/PravinDP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" alt="GIF" src="coding.gif" width="300px" height="260px"/>
+
+## MEAN Stack Developer
