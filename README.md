@@ -17,5 +17,5 @@
 
 </details>
 
-[gmail]: dabhipravin99@gmail.com
-[LinkedIn]: www.linkedin.com/in/pravin-dabhi-4a5019114
+[Gmail]: dabhipravin99@gmail.com
+[LinkedIn]: http://linkedin.com/in/pravin-dabhi-4a5019114
