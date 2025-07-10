@@ -48,6 +48,7 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=flat&logo=opentelemetry&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-0E1E25?style=flat&logo=grafana&logoColor=orange)
 ![Tempo](https://img.shields.io/badge/Tempo-0E1E25?style=flat&logo=grafana&logoColor=orange)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
