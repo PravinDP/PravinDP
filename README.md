@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pravin Dabhi</h1>
 
 <p align="center">
-  <strong>MEAN / NestJS Specialist • Microservices Architect • Event Driven | AWS</strong>
+  <strong>MEAN / NestJS Specialist • Microservices Architect • Event Driven • AWS</strong>
 </p>
 
 ---
