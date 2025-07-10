@@ -77,7 +77,7 @@ Let’s build something scalable and production-ready together!
 ## 🔗 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pravin%20Dabhi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pravin-dabhi-79871322/)
-- 📫 Email: pravindabhi311@gmail.com
+- 📫 Email: dabhipravin99@gmail.com
 
 ---
 
