@@ -10,6 +10,21 @@
 ## MEAN Stack Developer
 
 
+## 🔐 Premium Microservices Boilerplate
+
+Looking for a **production-ready microservices architecture**?
+
+Sponsor me and get access to a private repo with:
+- ⚙️ NestJS + gRPC + RabbitMQ + OpenTelemetry
+- 📦 Schema-per-service, Saga pattern, Circuit Breaker
+- 📊 Grafana, Loki, Tempo, Prometheus integration
+- 🐳 Docker Compose & Helm-ready deployment
+- 🧪 CI/CD-ready templates
+- 📁 Clean folder structure and best practices
+
+🎯 **Sponsor once to unlock the full private repo + future updates**
+
+[👉 Sponsor to Access](https://github.com/sponsors/PravinDP)
 
 
 ## &#x1f4c8; GitHub Stats
